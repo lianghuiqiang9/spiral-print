@@ -1,3 +1,11 @@
+# 主要过程
+1. 不明白数据库的大小
+2. 不明白query过程
+3. 不明白answer过程
+4. 退而求其次，弄清楚Baseline就行，也就是benchmark
+5. 
+
+
 # python3 generate_all_schemes.py && \
 python3 generate_all_schemes.py --stream && \
 python3 generate_all_schemes.py --high-rate && \
