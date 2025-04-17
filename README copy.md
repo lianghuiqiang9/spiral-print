@@ -1,7 +1,3 @@
-# spiral-print
-fork from https://github.com/menonsamir/spiral
-
-
 > **⚠️ IMPORTANT ⚠️**
 > 
 > A more complete and documented Rust implementation of Spiral is available at https://github.com/menonsamir/spiral-rs. Future work is being done on this new implementation; we preserve this old repository for reference purposes only, since our original benchmarks were collected using this code. We will not be updating this code.
