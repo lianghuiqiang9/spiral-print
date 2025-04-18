@@ -53,3 +53,8 @@ build/
 .ipynb_checkpoints
 __pycache__
 .vscode
+
+all_params_highrate.pkl
+all_params_highrate_streaming.pkl
+all_params.pkl
+all_params_streaming.pkl
